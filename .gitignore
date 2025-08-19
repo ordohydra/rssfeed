@@ -8,6 +8,7 @@
 .gradle/
 build/
 out/
+.DS_Store/
 
 # ---- Kotlin / Gradle ----
 .gradle/
@@ -30,15 +31,15 @@ captures/
 local.properties
 
 # ---- iOS / Xcode ----
-iosApp/build/
-iosApp/DerivedData/
-iosApp/*.xcworkspace
-iosApp/Pods/
-iosApp/Podfile.lock
+RssFeedApple/build/
+RssFeedApple/DerivedData/
+RssFeedApple/*.xcworkspace
+RssFeedApple/Pods/
+RssFeedApple/Podfile.lock
 
 # User-specific Xcode settings
-iosApp/*.xcuserdatad
-iosApp/*.xcuserstate
+RssFeedApple/*.xcuserdatad
+RssFeedApple/*.xcuserstate
 
 # ---- Cocoapods ----
 Pods/
